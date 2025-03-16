@@ -1,2 +1,1 @@
-# waterLevels
-Water Levels for levels.wkcc.org
+# Code for fetching and presenting water levels for WKCC
